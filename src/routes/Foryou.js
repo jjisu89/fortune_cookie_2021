@@ -164,7 +164,6 @@ class Foryou extends React.Component {
   };
 
   componentDidMount() {
-
     // var that = this;
     // var date = new Date().getDate(); //Current Date
     // var month = new Date().getMonth() + 1; //Current Month
@@ -201,7 +200,7 @@ class Foryou extends React.Component {
       // },
       buttons: [
         {
-          title: '랜덤 보기',
+          title: '더 보기',
           link: {
             mobileWebUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/open',
             webUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/open'
@@ -237,6 +236,9 @@ class Foryou extends React.Component {
       {/* <div className="foryou__container">
         {messages[Math.floor(Math.random() * messages_len)]}
       </div> */}
+      <div className="today_cookie">
+        {'오늘의 포춘쿠키'}
+      </div>
       <div className="foryou__container">
         {today_msg}
         {/* <br/>

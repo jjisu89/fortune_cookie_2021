@@ -189,8 +189,8 @@ class Foryou extends React.Component {
         // imageUrl: "https://drive.google.com/uc?id=1ECmJQEyJsH_Q-tFzr81X0TovVFfAk4dW",
         imageUrl: "https://mblogthumb-phinf.pstatic.net/MjAyMTEwMzBfNjIg/MDAxNjM1NTg2MTkwMDkw.Gsiz4UCtbSsvyAKqtJp34BbXFQT3oALVSy5yqIT7RGQg.m1kdAV001TKx2wQj5OqHNvdODBL0INF8xZqJfB7F96Mg.JPEG.bbanzzac0427/PNG_image-CB479C1D8F88-1.jpg?type=w800",
         link: {
-          mobileWebUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/open',
-          webUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/open'
+          mobileWebUrl: 'https://jjisu89.github.io/fortune_cookie_2021/#/open',
+          webUrl: 'https://jjisu89.github.io/fortune_cookie_2021/#/open'
         }
       },
       // social: {
@@ -202,15 +202,15 @@ class Foryou extends React.Component {
         {
           title: '더 보기',
           link: {
-            mobileWebUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/open',
-            webUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/open'
+            mobileWebUrl: 'https://jjisu89.github.io/fortune_cookie_2021/#/open',
+            webUrl: 'https://jjisu89.github.io/fortune_cookie_2021/#/open'
           }
         },
         {
           title: '내꺼 열기',
           link: {
-            mobileWebUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/foryou',
-            webUrl: 'https://jjisu89.github.io/fortune_znzl_2021/#/foryou'
+            mobileWebUrl: 'https://jjisu89.github.io/fortune_cookie_2021/#/',
+            webUrl: 'https://jjisu89.github.io/fortune_cookie_2021/#/'
           }
         } //,
         // {

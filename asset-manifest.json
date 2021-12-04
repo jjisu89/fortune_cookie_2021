@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/fortune_cookie_2021/static/css/main.5ad6e093.chunk.css",
-    "main.js": "/fortune_cookie_2021/static/js/main.b43ed54a.chunk.js",
-    "main.js.map": "/fortune_cookie_2021/static/js/main.b43ed54a.chunk.js.map",
+    "main.js": "/fortune_cookie_2021/static/js/main.e30811f7.chunk.js",
+    "main.js.map": "/fortune_cookie_2021/static/js/main.e30811f7.chunk.js.map",
     "runtime-main.js": "/fortune_cookie_2021/static/js/runtime-main.6e4278d1.js",
     "runtime-main.js.map": "/fortune_cookie_2021/static/js/runtime-main.6e4278d1.js.map",
     "static/js/2.b5a4376f.chunk.js": "/fortune_cookie_2021/static/js/2.b5a4376f.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.6e4278d1.js",
     "static/js/2.b5a4376f.chunk.js",
     "static/css/main.5ad6e093.chunk.css",
-    "static/js/main.b43ed54a.chunk.js"
+    "static/js/main.e30811f7.chunk.js"
   ]
 }

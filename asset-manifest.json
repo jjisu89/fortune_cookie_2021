@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/fortune_cookie_2021/static/css/main.5ad6e093.chunk.css",
+    "main.js": "/fortune_cookie_2021/static/js/main.c40eb613.chunk.js",
+    "main.js.map": "/fortune_cookie_2021/static/js/main.c40eb613.chunk.js.map",
+    "runtime-main.js": "/fortune_cookie_2021/static/js/runtime-main.6e4278d1.js",
+    "runtime-main.js.map": "/fortune_cookie_2021/static/js/runtime-main.6e4278d1.js.map",
+    "static/js/2.c9146a26.chunk.js": "/fortune_cookie_2021/static/js/2.c9146a26.chunk.js",
+    "static/js/2.c9146a26.chunk.js.map": "/fortune_cookie_2021/static/js/2.c9146a26.chunk.js.map",
+    "index.html": "/fortune_cookie_2021/index.html",
+    "static/css/main.5ad6e093.chunk.css.map": "/fortune_cookie_2021/static/css/main.5ad6e093.chunk.css.map",
+    "static/js/2.c9146a26.chunk.js.LICENSE.txt": "/fortune_cookie_2021/static/js/2.c9146a26.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e4278d1.js",
+    "static/js/2.c9146a26.chunk.js",
+    "static/css/main.5ad6e093.chunk.css",
+    "static/js/main.c40eb613.chunk.js"
+  ]
+}

@@ -153,7 +153,7 @@ class Open extends React.Component {
     let scr = document.createElement('script');
 
     ins.className = 'kakao_ad_area';
-    ins.style = "display:none; width:100%;";
+    ins.style = "display:none; width:100%; align:center";
     scr.async = 'true';
     scr.type = "text/javascript";
     scr.src = "//t1.daumcdn.net/kas/static/ba.min.js";
@@ -173,6 +173,9 @@ class Open extends React.Component {
       <h1> </h1>
       <div className="open__container">
         {messages[Math.floor(Math.random() * 141)]}
+        <br/>
+        <br/>
+        (<a href="https://jjisu89.github.io/fortune_cookie_2021">오늘의 포춘쿠키 다시보기</a>)
       </div>
       <h1> </h1>
       {/* <AdfitWebComponent adUnit="DAN-4caTuk25kjMalzo6"/> */}

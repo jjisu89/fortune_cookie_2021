@@ -175,7 +175,7 @@ class Open extends React.Component {
         {messages[Math.floor(Math.random() * 141)]}
         <br/>
         <br/>
-        (<a href="https://jjisu89.github.io/fortune_cookie_2021">오늘의 포춘쿠키 다시보기</a>)
+        (<a href="https://jjisu89.github.io/fortune_cookie_202112">오늘의 포춘쿠키 다시보기</a>)
       </div>
       <h1> </h1>
       {/* <AdfitWebComponent adUnit="DAN-4caTuk25kjMalzo6"/> */}

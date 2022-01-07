@@ -159,7 +159,7 @@ class Open extends React.Component {
     scr.src = "//t1.daumcdn.net/kas/static/ba.min.js";
     ins.setAttribute('data-ad-width', '250');
     ins.setAttribute('data-ad-height', '250');
-    ins.setAttribute('data-ad-unit', 'DAN-4caTuk25kjMalzo6');
+    ins.setAttribute('data-ad-unit', 'DAN-fxoalCQFmlPTseKb');
 
     document.querySelector('.adfit').appendChild(ins);
     document.querySelector('.adfit').appendChild(scr);
@@ -169,7 +169,7 @@ class Open extends React.Component {
     const { messages } = this.state;
     return (
       <>
-      <AdfitWebComponent adUnit="DAN-adqaX45x5k7vqTHy"/>
+      <AdfitWebComponent adUnit="DAN-Xe3aiXLyTJMgregp"/>
       <h1> </h1>
       <div className="open__container">
         {messages[Math.floor(Math.random() * 141)]}
@@ -178,7 +178,7 @@ class Open extends React.Component {
         (<a href="https://jjisu89.github.io/fortune_cookie_202112">오늘의 포춘쿠키 다시보기</a>)
       </div>
       <h1> </h1>
-      {/* <AdfitWebComponent adUnit="DAN-4caTuk25kjMalzo6"/> */}
+      {/* <AdfitWebComponent adUnit="DAN-fxoalCQFmlPTseKb"/> */}
       <div className="adfit" />
       </>
     );

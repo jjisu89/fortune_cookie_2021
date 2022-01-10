@@ -177,6 +177,8 @@ class Open extends React.Component {
         <br/>
         (<a href="https://jjisu89.github.io/fortune_cookie_202112">오늘의 포춘쿠키 다시보기</a>)
       </div>
+      <iframe src="https://ads-partners.coupang.com/widgets.html?id=547451&template=carousel&trackingCode=AF4276997&subId=&width=320&height=100" width="320" height="100" frameborder="0" scrolling="no" referrerpolicy="unsafe-url"></iframe>
+      
       <h1> </h1>
       {/* <AdfitWebComponent adUnit="DAN-fxoalCQFmlPTseKb"/> */}
       <div className="adfit" />

@@ -14,7 +14,7 @@ border-radius: 24px;
 
 class Foryou extends React.Component {
   state = {
-    today_str: (new Date().getMonth()).toString()+'월 '+(new Date().getDate()).toString()+'일',
+    today_str: (new Date().getMonth()+1).toString()+'월 '+(new Date().getDate()).toString()+'일',
     today_msg: [
       '오늘은 행운이 가득한 날입니다',
       '다른 사람의 말을 잘 들어야 합니다',
@@ -238,7 +238,7 @@ class Foryou extends React.Component {
         {messages[Math.floor(Math.random() * messages_len)]}
       </div> */}
       <div className="today_cookie">
-        {today_str+'\n오늘의 포춘쿠키'}
+        {today_str+'\n\n오늘의 포춘쿠키'}
       </div>
       <div className="foryou__container">
         {today_msg}

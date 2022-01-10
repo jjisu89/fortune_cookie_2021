@@ -238,7 +238,9 @@ class Foryou extends React.Component {
         {messages[Math.floor(Math.random() * messages_len)]}
       </div> */}
       <div className="today_cookie">
-        {today_str+'\n\n오늘의 포춘쿠키'}
+        {today_str}
+        <br></br>
+        {'오늘의 포춘쿠키'}
       </div>
       <div className="foryou__container">
         {today_msg}
